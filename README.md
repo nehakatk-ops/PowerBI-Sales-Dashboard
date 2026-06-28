@@ -54,7 +54,7 @@ Managers
 Financial Categories
 Dates (2013–2018)
 
-#Dashboard SnapShot
+# Dashboard Snapshot:
 <img width="1784" height="998" alt="Screenshot 2026-06-28 120533" src="https://github.com/user-attachments/assets/99b64e42-e13d-440f-ad2b-10d8f42e6dba" />
 
 
